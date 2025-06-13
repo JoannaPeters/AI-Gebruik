@@ -1,0 +1,68 @@
+Prompt: Beschrijven van data bronnen. 
+[media pointer="file-service://file-JVfPpNFGDyT2bm5baT4Fkz"]
+kan je mijn tekst controlleren op spelling. Is mijn punt duidelijk?: "Voordat het team verdergaat met het analyseren van de data is er uitgezocht welke databronnen beschikbaar zijn om de fiets en wandelroutes beschikbaar zijn in het Nationaal Park Utrechtse Heuvelrug en dat goed in beeld te brengen. Het onderzoek richt zich op de vraag welke informatie bruikbaar is, waar die vandaan komt, hoe compleet de data is en of deze aansluit bij de doelen van het project. 
+Er is onderscheid gemaakt tussen drie soorten databronnen: 
+1.	Intern
+2.	 Extern
+3.	Zelf verzameld.
+
+1. Interne bronnen (van NPUH zelf)
+Binnen de eigen platforms van NPUH is beperkte route-informatie beschikbaar.
+•	Heuvelrugmonitor: bevat kaartlagen over natuur, recreatie en milieu. Er is informatie te vinden over wandelgebieden en recreatieve zones, maar de routes zelf zijn beperkt zichtbaar.
+•	Kennisbank: biedt rapporten, nieuwsberichten en achtergrondinformatie, maar bevat geen ruwe routebestanden.
+•	Website van NPUH: geeft algemene informatie over wandel- en fietsmogelijkheden, maar is vooral bedoeld voor bezoekers. Er is geen directe toegang tot datasets.
+De interne bronnen zijn dus vooral informatief en beschrijvend, en leveren weinig tot geen ruwe geografische data op.
+
+2. Externe databronnen (open data)
+Omdat er vanuit NPUH geen eigen data over routes beschikbaar is gesteld, is gezocht naar externe openbare databronnen. Deze zijn geselecteerd op relevantie voor het project en betrouwbaarheid:
+•	PDOK (Publieke Dienstverlening op de Kaart): biedt kaartlagen waarin fiets- en wandelpaden zijn opgenomen via de BGT (Basisregistratie Grootschalige Topografie).
+•	Nationaal Georegister (NGR): levert geografische datasets, waaronder routes, paden en natuurgebieden.
+•	Data Provincie Utrecht: bevat gegevens over beheer, inrichting en recreatieve routes, inclusief wandel- en fietspaden.
+•	Fietsnetwerk.nl en Route.nl: zijn geraadpleegd ter oriëntatie op bestaande netwerken, maar zijn geen bron van ruwe data.
+•	CBS: biedt achtergrondinformatie over bereikbaarheid en gebruik van voorzieningen, onder andere voor recreatie en mobiliteit.
+
+3. Primaire bronnen (zelf verzameld)
+Waar informatie ontbrak of onduidelijk was, zijn gesprekken gevoerd met medewerkers van de provincie en andere betrokkenen. Deze gesprekken leverden aanvullende gegevens op, zoals het onderscheid tussen officiële routes (zoals knooppuntennetwerken) en informele paden binnen natuurgebieden.
+
+Beoordeling van de databronnen
+Alle gevonden bronnen zijn beoordeeld op vijf punten:
+•	Betrouwbaarheid:
+De meeste data komt van erkende overheidsinstanties. Dit maakt ze betrouwbaar voor gebruik in het dashboard.
+•	Volledigheid:
+Niet alle routes zijn volledig in kaart gebracht. In sommige datasets ontbreken delen van het netwerk of ontbreekt informatie over toegankelijkheid.
+Aanvulling met andere bronnen of handmatige controle was soms nodig.
+•	Actualiteit:
+PDOK en NGR hebben relatief recente datasets, maar niet alle bronnen vermelden duidelijk wanneer ze voor het laatst zijn bijgewerkt.
+•	Consistentie:
+De data is opgeschoond. Verschillen in benamingen en coördinaten zijn gelijkgetrokken. Dubbelen zijn verwijderd.
+•	Relevantie:
+Alle geselecteerde bronnen sluiten aan op het doel: het inzichtelijk maken van fiets- en wandelroutes in en rond het Nationaal Park.
+
+Verzameling en verwerking van de data
+•	Verzameling:
+De meeste datasets zijn handmatig gedownload via officiële dataplatforms. In sommige gevallen is aanvullende informatie verkregen via contactpersonen.
+•	Bestandsformaten:
+Er is vooral gewerkt met GPX en .CSV-bestanden. Deze zijn omgezet naar formaten die geschikt zijn voor analyse en visualisatie.
+•	Voorbewerking:
+o	Verwijderen van lege of overbodige gegevens
+o	Standaardiseren van datums, plaatsnamen en eenheden
+o	Oplossen van fouten of conflicten
+o	Omzetten naar het juiste coördinatensysteem
+
+Conclusie
+Er is voldoende data beschikbaar om fiets- en wandelroutes binnen het NPUH-gebied zichtbaar te maken in een dashboard. Niet alle data was direct bruikbaar of compleet, maar met een combinatie van bronnen en enkele aanvullingen is een stevig basis bestand opgebouwd, wat in latere fases opgeschoond en geherstructureerd kunnen worden." 
+
+
+
+
+
+
+
+Antwoord GPT: 
+Ja. De tekst legt helder uit dat er eerst zorgvuldig is onderzocht welke databronnen geschikt zijn, op welke vlakken ze zijn beoordeeld en hoe ze zijn verzameld en klaargemaakt voor gebruik in het dashboard. Hierdoor begrijpt de lezer het proces en ziet hij waarom de gekozen data betrouwbaar en bruikbaar is.
+
+
+
+
+
+
